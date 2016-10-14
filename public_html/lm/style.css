@@ -2,10 +2,10 @@
 	color: purple;
 	font-family: serif;
 }
-#title{
-	color:green;
+.titulo{
+	color:#00CC00;
 }
-.content{
+.proyecto{
 	float:left;
 	width:250;
 	padding:20;
@@ -16,4 +16,11 @@
 }
 .año{
 	float: left;
+	color: #800000;
+}
+.titulo_proyecto{
+	color: #6600CC;
+}
+img{
+	height: 40;
 }
