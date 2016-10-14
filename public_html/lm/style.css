@@ -1,0 +1,19 @@
+*{
+	color: purple;
+	font-family: serif;
+}
+#title{
+	color:green;
+}
+.content{
+	float:left;
+	width:250;
+	padding:20;
+}
+.nombre{
+	color:black;
+	font-weight: bold;
+}
+.año{
+	float: left;
+}
