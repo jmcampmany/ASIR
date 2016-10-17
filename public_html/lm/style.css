@@ -9,9 +9,9 @@ img{
 	color:#00CC00;
 }
 .proyecto{
-	float:left;
 	width:250px;
 	padding:20px;
+	float:left;
 }
 .nombre{
 	color:black;
@@ -19,11 +19,13 @@ img{
 }
 .año{
 	color: #800000;
-	float: left;
+	clear:both;
+
 }
 .titulo_proyecto{
 	color: #6600CC;
 }
-#dosmilquince{
-	clear: both;
+h3{
+	float:left;
+	color:#800000;
 }
