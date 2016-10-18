@@ -2,30 +2,28 @@
 	color: purple;
 	font-family: serif;
 }
-img{
-	height: 40px;
-}
-.titulo{
+h1{
 	color:#00CC00;
-}
-.proyecto{
-	width:250px;
-	padding:20px;
-	float:left;
-}
-.nombre{
-	color:black;
-	font-weight: bold;
-}
-.año{
-	color: #800000;
-	clear:both;
-
-}
-.titulo_proyecto{
-	color: #6600CC;
 }
 h3{
 	float:left;
 	color:#800000;
+}
+img{
+	height: 40px;
+}
+.proyecto{
+	width:250px;
+	padding:20px;
+}
+.nombre_alumno{
+	color:black;
+	font-weight: bold;
+}
+.año{
+	display:flex;
+	color: #800000;
+}
+.titulo_proyecto{
+	color: #6600CC;
 }
