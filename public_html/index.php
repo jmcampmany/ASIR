@@ -9,7 +9,7 @@
 	<?php include 'header.php';?>
 	<div class="content">
 		Working on it
-		<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="">
+		<a href="https://github.com/jmcampmany"><img src="images/github.png" alt=""></a>
 	</div>
 </body>
 </html>
