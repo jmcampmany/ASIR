@@ -7,7 +7,6 @@
 </head>
 <body>
 	<?php include 'header.php'; ?>
-	<br>
 	<h1>Comandos útiles para Unix</h1>
 	<table border="1">
 	<tr>

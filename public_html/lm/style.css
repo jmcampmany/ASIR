@@ -9,12 +9,13 @@ h3{
 	float:left;
 	color:#800000;
 }
-img{
+.logo{
 	height: 40px;
+	margin-bottom: 10px;
 }
 .proyecto{
 	width:250px;
-	padding:20px;
+	margin:20px;
 }
 .nombre_alumno{
 	color:black;
