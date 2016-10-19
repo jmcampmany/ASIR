@@ -23,10 +23,12 @@ header a{
 header a:hover{
 	color: #aaaaaa;
 }
-#github{    
-    float: right;
-    width: 75px;
-    height: 75px;
+#lain{
+    width: 100px;
+    right: 0px;
+    bottom: 0px;
+    position: absolute;
+    margin: 5px;
 }
 a{
     text-decoration: none;
@@ -37,4 +39,14 @@ a:hover{
 }
 ul{
     list-style: none;
+}
+#contact{
+    position: absolute;
+    right: 0px;
+    background: #4d4d4d;
+    margin-right: 20px;
+}
+.logo{    
+    width: 75px;
+    margin: 10px;
 }
