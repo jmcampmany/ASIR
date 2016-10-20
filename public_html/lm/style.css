@@ -3,11 +3,11 @@
 	font-family: serif;
 }
 h1{
-	color:#00CC00;
+	color: #00CC00;
 }
 h3{
-	float:left;
-	color:#800000;
+	float: left;
+	color: #800000;
 }
 .logo{
 	height: 40px;
@@ -18,13 +18,18 @@ h3{
 	margin:20px;
 }
 .nombre_alumno{
-	color:black;
+	color: black;
 	font-weight: bold;
 }
 .año{
-	display:flex;
+	display: flex;
 	color: #800000;
+	margin: 30px;
 }
 .titulo_proyecto{
 	color: #6600CC;
+}
+#w3c{
+	width: 100px;
+	margin: 30px;
 }

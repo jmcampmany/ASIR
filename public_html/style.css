@@ -1,18 +1,19 @@
 body{
-    background: #2c2c2c;
+    background: #404040;
     font-family: "Helvetica Neue";
     color: #aaaaaa;
     font-size: 13px;
-    padding-top:32px;
+    padding-top: 32px;
+    display: flex;
 }
 header{
+    background: #4d4d4d;
     position: fixed;
     top: 0; 
     left: 0;
     height: 32px;
     line-height: 32px;
     width: 100%;
-    background: #333333;
 }
 header a{
     padding-right: 8px;
@@ -23,13 +24,6 @@ header a{
 header a:hover{
 	color: #aaaaaa;
 }
-#lain{
-    width: 100px;
-    right: 0px;
-    bottom: 0px;
-    position: absolute;
-    margin: 5px;
-}
 a{
     text-decoration: none;
     color: #6688aa;
@@ -37,16 +31,23 @@ a{
 a:hover{
     color: #aaaaaa;
 }
-ul{
-    list-style: none;
+#content{
+    margin: 5px;
+    display: flex;
 }
 #contact{
     position: absolute;
     right: 0px;
-    background: #4d4d4d;
-    margin-right: 20px;
+    margin: 5px;
 }
 .logo{    
-    width: 75px;
-    margin: 10px;
+    width: 50px;
+    margin: 5px;
+}
+#lain{
+    width: 100px;
+    right: 0px;
+    bottom: 0px;
+    position: absolute;
+    margin: 5px;
 }

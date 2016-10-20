@@ -7,7 +7,6 @@
 </head>
 <body>
 	<?php include 'header.php'; ?>
-	<h1>Comandos útiles para Unix</h1>
 	<table border="1">
 	<tr>
 		<td>Comando</td>
@@ -64,7 +63,7 @@
 	<tr>
 		<td>traceroute</td>
 		<td></td>
-	</tr>asd
+	</tr>
 	</table>
 </body>
 </html>
