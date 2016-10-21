@@ -11,7 +11,7 @@
 	<br>
 	<ul>
 		<li><h2><a href="lm/pasir.html">Proyectos ASIR</a></h2></li>
-       	<li><h2><a href="par/ejercicios/ejercicios2.html">XML Proyectos ASIR</a></h2></li>
+       	<li><h2><a href="lm/pasir.xml">XML Proyectos ASIR</a></h2></li>
     </ul>
 </body>
 </html>
