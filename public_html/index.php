@@ -19,5 +19,6 @@
 			<a href="https://steamcommunity.com/id/toxic487"><img src="images/steam.png" alt="" class="logo"></a>
 			<a href=""><img src="images/linkedin.png" alt="" class="logo"></a>
 	</div>
+	<a href="lain.html"><img src="images/lain.gif" alt="Let's all love Lain!" id="lain"></a>
 </body>
 </html>
