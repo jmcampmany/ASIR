@@ -7,6 +7,20 @@
 </head>
 <body>
 	<?php include 'header.php'; ?>
+
+	<ul>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+	</ul>
+	
 	<table border="1">
 	<tr>
 		<td>Comando</td>
