@@ -9,9 +9,9 @@
   	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
-	<?php include 'header.php';?>
-	<div id="content">
-		Working on it
+	<?php include "header.php";?>
+	<div class="main_content">
+		<p class="text">Working on it</p>
 	</div>
 	<div id="contact">
 			<a href="https://github.com/jmcampmany"><img src="images/github.png" alt="" class="logo"></a>
@@ -19,6 +19,5 @@
 			<a href="https://steamcommunity.com/id/toxic487"><img src="images/steam.png" alt="" class="logo"></a>
 			<a href=""><img src="images/linkedin.png" alt="" class="logo"></a>
 	</div>
-	<a href="lain.html"><img src="images/lain.gif" alt="Let's all love Lain!" id="lain"></a>
 </body>
 </html>
