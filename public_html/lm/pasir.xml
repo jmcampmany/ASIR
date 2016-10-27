@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <proyectos>
-	<proyecto nombre="Despliegue de servicios con MAAS y JUJU" año="2016">
+	<proyecto nombre="Despliegue de servicios con MAAS y JUJU" enlace="Proyecto en GitHub" año="2016">
 		<autor nombre="Javier García Pajuelo"/>
 		<descripcion>Se pretenden construir, de manera rápida y ahorrando la mayor cantidad de memoria, diversos escenarios para su uso en los módulos del ciclo de ASIR. Trabajamos dos proyectos de Canonical: con MAAS instalamos el sistema operativo en las distintas máquinas que usamos y JUJU es el orquestador que nos permite desplegar y configurar los servicios en los distintos escenarios.</descripcion>
-		<enlace>Proyecto en GitHub</enlace>
 	</proyecto>
-	<proyecto nombre="Implantación del protocolo 802.1X en redesLAN/WLAN" año="2016">
+	<proyecto nombre="Implantación del protocolo 802.1X en redesLAN/WLAN" enlace="Proyecto en GitHub" año="2016">
 		<autor nombre="Mª Paz Guerrero Parrado"/>
 		<descripcion>Actualmente la red inalámbrica de las aulas de Informática usa como método de autenticación WPA/PA2­ PSK. Se pretende, con este proyecto, aumentar la seguridad cifrando las conexiones haciendo uso de certificados digitales. Para ello llevaremos a cabo la autenticación por medio del protocolo 802.1X usando un servidor RADIUS. Además centralizaremos toda la información relacionada con usuarios y certificados mediante un servicio de directorio LDAP.</descripcion>
-		<enlace>Proyecto en GitHub</enlace>
 	</proyecto>
 </proyectos>
